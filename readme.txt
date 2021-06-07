@@ -6,8 +6,6 @@ Une simulation est disponible sur tinkercad
 
 https://www.tinkercad.com/things/dooZBakVply-tachymetre-frequencemetre-compteur-encodeur-
 
-https://www.tinkercad.com/things/dooZBakVply-tachymetre-frequencemetre-compteur-encodeur-/editel
-
 le (les) capteurs sont supposés envoyer des impulsions entre 0 et 5V - adapter l'électronique si besoin. 
 
 Pour un tachymètre / fréquencemètre / compteur seul un capteur relié à la patte 2 de l'arduino suffit
